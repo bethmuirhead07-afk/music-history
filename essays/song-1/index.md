@@ -18,10 +18,10 @@ tags:
 ---
 
 # St. Louis Blues by Bessie Smith
-    The blues are one of the most rooted genres in music, and its origin dates back to the 1920s. When people think of the Roaring Twenties they often think 
-    about flappers, lavish parties, and lots of wealth, however, the blues is also a piece of that time in history. Its origin dates back to African American 
-    peoples in the South, who made music as a form of expression. This genre produced countless sorrowful, country-esque songs, and one of the most famous is 
-    titled “St. Louis Blues” performed by Bessie Smith. 
+The blues are one of the most rooted genres in music, and its origin dates back to the 1920s. When people think of the Roaring Twenties they often think 
+about flappers, lavish parties, and lots of wealth, however, the blues is also a piece of that time in history. Its origin dates back to African American 
+peoples in the South, who made music as a form of expression. This genre produced countless sorrowful, country-esque songs, and one of the most famous is 
+titled “St. Louis Blues” performed by Bessie Smith. 
 
 
 ## Second heading
